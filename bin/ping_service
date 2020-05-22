@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+
+import requests
+
+if __name__ == '__main__':
+   resp = requests.get('https://floating-lowlands-10798.herokuapp.com/')
+   print(f'Pinged wtl-service with status code: {resp.status_code}')
