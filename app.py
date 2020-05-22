@@ -341,11 +341,12 @@ The following web map shows the location and value of residences that were
 destroyed in the 2017 Santa Rosa wildfire.  The green locations are residences
 that are in the process of being rebuilt &mdash; either completed, permitted,
 or under construction.  The size of the dot corresponds to the pre-fire
-valuation according to Zillow.  Hover over the dots to see the address and
-value.
+valuation according to Zillow.  Double click to zoom &mdash; and drag to pan. 
+Hover over the dots to see the address and value.
 
 An animated version of the web map is
-[here](https://s3-us-west-1.amazonaws.com/embeddable.earthrise.media/santa_rosa_rebuilding/index.html).
+[here](https://s3-us-west-1.amazonaws.com/embeddable.earthrise.media/santa_rosa_rebuilding/index.html),
+which articulates the pace of development since Nov 2017.
 
 
 """)
