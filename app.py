@@ -231,11 +231,11 @@ additional land surface modeling.
 The following chart illustrates two variables calculated by the GSM,
 aggregated for the state of California (1980-2020):
 
-1. **Fire danger index**.  The monthly mean National Fire Danger Rating System
+1. **Fire danger index** (`bi`).  The monthly mean National Fire Danger Rating System
 (NFDRS) fire danger index.  The measure represents an ensemble of many
 environmental datasets.
 
-2. **Dead fuel moisture**. Dead fuel moisture responds solely to ambient
+2. **Dead fuel moisture** (`fm100`). Dead fuel moisture responds solely to ambient
 environmental conditions and is critical in determining fire potential. Dead
 fuel moistures are classed by timelag. A fuel's timelag is proportional to its
 diameter and is loosely defined as the time it takes a fuel particle to reach
